@@ -1,4 +1,5 @@
 # Playground
+Paolo Pasco
 
 A place to play with `git`.
 
