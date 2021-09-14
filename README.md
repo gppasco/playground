@@ -1,5 +1,5 @@
 # Playground
-CS107, CS187, GENED 1038, APMTH 10
+Paolo Pasco is taking CS107
 
 A place to play with `git`.
 
